@@ -1,4 +1,4 @@
-# fn-low-meshes-benchmark
+# Fortnite "Low Meshes" Benchmark
 
 Source data for this benchmark, captured using FRAPS Benchmark:
 
